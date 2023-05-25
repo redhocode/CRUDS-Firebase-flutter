@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 # Demo Aplikasi
 https://github.com/redhocode/CRUDS-Firebase-flutter/assets/59240080/d6e817b9-bdd5-4cfa-ab13-9bedce5da5cf
 
-#Semangat
+# Semangat
 
