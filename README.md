@@ -1,6 +1,7 @@
-# member_jkt48
+# Flutter CRUDS+Firebase : member_jkt48
 
-A new Flutter project.
+Aplikasi ini digunakan untuk pencatatan data member jkt48 yang
+datanya disimpan di database firebase yang mana firebase itu real time
 
 ## Getting Started
 
@@ -10,7 +11,12 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Referensi](- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook))
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Demo Aplikasi
+https://github.com/redhocode/CRUDS-Firebase-flutter/assets/59240080/d6e817b9-bdd5-4cfa-ab13-9bedce5da5cf
+
