@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-- [Referensi](https://www.sahretech.com/2022/04/cara-membuat-aplikasi-crud-flutter-dan.html)
+- [Referensi Projeck App](https://www.sahretech.com/2022/04/cara-membuat-aplikasi-crud-flutter-dan.html)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
